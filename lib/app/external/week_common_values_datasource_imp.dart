@@ -1,9 +1,9 @@
 import 'dart:convert';
 
-import 'package:sales_accounting/app/data/datasources/week_common_values_datasource.dart';
-import 'package:sales_accounting/app/data/dtos/week_common_values_dto.dart';
-import 'package:sales_accounting/app/domain/entities/week_common_values_entity.dart';
-import 'package:sales_accounting/core/domain/services/local_data_service.dart';
+import 'package:espetariateste/app/data/datasources/week_common_values_datasource.dart';
+import 'package:espetariateste/app/data/dtos/week_common_values_dto.dart';
+import 'package:espetariateste/app/domain/entities/week_common_values_entity.dart';
+import 'package:espetariateste/core/domain/services/local_data_service.dart';
 
 class WeekCommonValuesDataSourceImp extends WeekCommonValuesDataSource {
   WeekCommonValuesDataSourceImp(this._service);

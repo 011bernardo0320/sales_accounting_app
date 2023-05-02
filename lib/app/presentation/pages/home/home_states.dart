@@ -1,5 +1,5 @@
-import 'package:sales_accounting/app/presentation/pages/home/utils/home_enums.dart';
-import 'package:sales_accounting/core/utils/app_exception.dart';
+import 'package:espetariateste/app/presentation/pages/home/utils/home_enums.dart';
+import 'package:espetariateste/core/utils/app_exception.dart';
 
 abstract class HomeState {
   const HomeState([this.price = Price.none, this.situation = Situation.none, this.debt = 0]);

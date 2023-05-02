@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sales_accounting/app/presentation/common/app_sizes.dart';
-import 'package:sales_accounting/app/presentation/pages/home/home_cubit.dart';
-import 'package:sales_accounting/app/presentation/pages/home/widgets/text_field_card.dart';
+import 'package:espetariateste/app/presentation/common/app_sizes.dart';
+import 'package:espetariateste/app/presentation/pages/home/home_cubit.dart';
+import 'package:espetariateste/app/presentation/pages/home/widgets/text_field_card.dart';
 
 class ReckoningComponent extends StatelessWidget {
   const ReckoningComponent(this.cubit, {Key? key}) : super(key: key);

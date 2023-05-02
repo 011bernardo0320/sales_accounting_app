@@ -1,4 +1,4 @@
-package com.example.sales_accounting
+package com.example.espetariateste
 
 import io.flutter.embedding.android.FlutterActivity
 

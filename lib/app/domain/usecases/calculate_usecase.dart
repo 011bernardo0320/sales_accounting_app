@@ -1,8 +1,8 @@
-import 'package:sales_accounting/app/domain/entities/raffle_week_entity.dart';
-import 'package:sales_accounting/app/domain/entities/reckoning_entity.dart';
-import 'package:sales_accounting/app/domain/entities/week_common_values_entity.dart';
-import 'package:sales_accounting/app/presentation/pages/home/utils/home_enums.dart';
-import 'package:sales_accounting/core/utils/app_exception.dart';
+import 'package:espetariateste/app/domain/entities/raffle_week_entity.dart';
+import 'package:espetariateste/app/domain/entities/reckoning_entity.dart';
+import 'package:espetariateste/app/domain/entities/week_common_values_entity.dart';
+import 'package:espetariateste/app/presentation/pages/home/utils/home_enums.dart';
+import 'package:espetariateste/core/utils/app_exception.dart';
 
 abstract class CalculateUseCase {
   ReckoningEntity call(

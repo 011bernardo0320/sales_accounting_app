@@ -1,9 +1,9 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:sales_accounting/app/domain/entities/raffle_week_entity.dart';
-import 'package:sales_accounting/app/domain/entities/reckoning_entity.dart';
-import 'package:sales_accounting/app/domain/entities/week_common_values_entity.dart';
-import 'package:sales_accounting/app/domain/usecases/calculate_usecase.dart';
-import 'package:sales_accounting/app/presentation/pages/home/utils/home_enums.dart';
+import 'package:espetariateste/app/domain/entities/raffle_week_entity.dart';
+import 'package:espetariateste/app/domain/entities/reckoning_entity.dart';
+import 'package:espetariateste/app/domain/entities/week_common_values_entity.dart';
+import 'package:espetariateste/app/domain/usecases/calculate_usecase.dart';
+import 'package:espetariateste/app/presentation/pages/home/utils/home_enums.dart';
 
 void main() {
   test('Calculate', () {

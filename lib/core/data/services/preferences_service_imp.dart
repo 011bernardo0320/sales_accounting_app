@@ -1,4 +1,4 @@
-import 'package:sales_accounting/core/domain/services/local_data_service.dart';
+import 'package:espetariateste/core/domain/services/local_data_service.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class PreferencesServiceImp extends LocalDataService {
